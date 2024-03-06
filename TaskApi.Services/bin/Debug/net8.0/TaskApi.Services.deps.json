@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TaskApi.Services/1.0.0": {
+        "dependencies": {
+          "TaskApi.Models": "1.0.0"
+        },
+        "runtime": {
+          "TaskApi.Services.dll": {}
+        }
+      },
+      "TaskApi.Models/1.0.0": {
+        "runtime": {
+          "TaskApi.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TaskApi.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TaskApi.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

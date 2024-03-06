@@ -1,0 +1,12 @@
+E:\.net\TaskApi\TaskApi.Models\bin\Debug\net8.0\TaskApi.Models.deps.json
+E:\.net\TaskApi\TaskApi.Models\bin\Debug\net8.0\TaskApi.Models.dll
+E:\.net\TaskApi\TaskApi.Models\bin\Debug\net8.0\TaskApi.Models.pdb
+E:\.net\TaskApi\TaskApi.Models\obj\Debug\net8.0\TaskApi.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\TaskApi\TaskApi.Models\obj\Debug\net8.0\TaskApi.Models.AssemblyInfoInputs.cache
+E:\.net\TaskApi\TaskApi.Models\obj\Debug\net8.0\TaskApi.Models.AssemblyInfo.cs
+E:\.net\TaskApi\TaskApi.Models\obj\Debug\net8.0\TaskApi.Models.csproj.CoreCompileInputs.cache
+E:\.net\TaskApi\TaskApi.Models\obj\Debug\net8.0\TaskApi.Models.sourcelink.json
+E:\.net\TaskApi\TaskApi.Models\obj\Debug\net8.0\TaskApi.Models.dll
+E:\.net\TaskApi\TaskApi.Models\obj\Debug\net8.0\refint\TaskApi.Models.dll
+E:\.net\TaskApi\TaskApi.Models\obj\Debug\net8.0\TaskApi.Models.pdb
+E:\.net\TaskApi\TaskApi.Models\obj\Debug\net8.0\ref\TaskApi.Models.dll

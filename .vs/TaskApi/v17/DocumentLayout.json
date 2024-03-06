@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.net\\TaskApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE09E57-2DFB-4DDA-959C-BA60698DD71F}|TaskApi\\TaskApi.csproj|e:\\.net\\taskapi\\taskapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE09E57-2DFB-4DDA-959C-BA60698DD71F}|TaskApi\\TaskApi.csproj|solutionrelative:taskapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C3BD2F7-2733-4D55-A81F-44D4FA7614F6}|TaskApi.Services\\TaskApi.Services.csproj|e:\\.net\\taskapi\\taskapi.services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C3BD2F7-2733-4D55-A81F-44D4FA7614F6}|TaskApi.Services\\TaskApi.Services.csproj|solutionrelative:taskapi.services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C3BD2F7-2733-4D55-A81F-44D4FA7614F6}|TaskApi.Services\\TaskApi.Services.csproj|e:\\.net\\taskapi\\taskapi.services\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C3BD2F7-2733-4D55-A81F-44D4FA7614F6}|TaskApi.Services\\TaskApi.Services.csproj|solutionrelative:taskapi.services\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011BBA17-5BD8-4F0C-9559-A8A3D330322F}|TaskApi.Models\\TaskApi.Models.csproj|e:\\.net\\taskapi\\taskapi.models\\todostatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011BBA17-5BD8-4F0C-9559-A8A3D330322F}|TaskApi.Models\\TaskApi.Models.csproj|solutionrelative:taskapi.models\\todostatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011BBA17-5BD8-4F0C-9559-A8A3D330322F}|TaskApi.Models\\TaskApi.Models.csproj|e:\\.net\\taskapi\\taskapi.models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011BBA17-5BD8-4F0C-9559-A8A3D330322F}|TaskApi.Models\\TaskApi.Models.csproj|solutionrelative:taskapi.models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE09E57-2DFB-4DDA-959C-BA60698DD71F}|TaskApi\\TaskApi.csproj|e:\\.net\\taskapi\\taskapi\\taskapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4BE09E57-2DFB-4DDA-959C-BA60698DD71F}|TaskApi\\TaskApi.csproj|solutionrelative:taskapi\\taskapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE09E57-2DFB-4DDA-959C-BA60698DD71F}|TaskApi\\TaskApi.csproj|e:\\.net\\taskapi\\taskapi\\taskapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4BE09E57-2DFB-4DDA-959C-BA60698DD71F}|TaskApi\\TaskApi.csproj|solutionrelative:taskapi\\taskapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE09E57-2DFB-4DDA-959C-BA60698DD71F}|TaskApi\\TaskApi.csproj|e:\\.net\\taskapi\\taskapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE09E57-2DFB-4DDA-959C-BA60698DD71F}|TaskApi\\TaskApi.csproj|solutionrelative:taskapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE09E57-2DFB-4DDA-959C-BA60698DD71F}|TaskApi\\TaskApi.csproj|e:\\.net\\taskapi\\taskapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4BE09E57-2DFB-4DDA-959C-BA60698DD71F}|TaskApi\\TaskApi.csproj|solutionrelative:taskapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE09E57-2DFB-4DDA-959C-BA60698DD71F}|TaskApi\\TaskApi.csproj|e:\\.net\\taskapi\\taskapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4BE09E57-2DFB-4DDA-959C-BA60698DD71F}|TaskApi\\TaskApi.csproj|solutionrelative:taskapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITodoRepository.cs",
+              "DocumentMoniker": "E:\\.net\\TaskApi\\TaskApi.Services\\ITodoRepository.cs",
+              "RelativeDocumentMoniker": "TaskApi.Services\\ITodoRepository.cs",
+              "ToolTip": "E:\\.net\\TaskApi\\TaskApi.Services\\ITodoRepository.cs",
+              "RelativeToolTip": "TaskApi.Services\\ITodoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:43:46.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoStatus.cs",
+              "DocumentMoniker": "E:\\.net\\TaskApi\\TaskApi.Models\\TodoStatus.cs",
+              "RelativeDocumentMoniker": "TaskApi.Models\\TodoStatus.cs",
+              "ToolTip": "E:\\.net\\TaskApi\\TaskApi.Models\\TodoStatus.cs",
+              "RelativeToolTip": "TaskApi.Models\\TodoStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:40:26.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "E:\\.net\\TaskApi\\TaskApi.Models\\Todo.cs",
+              "RelativeDocumentMoniker": "TaskApi.Models\\Todo.cs",
+              "ToolTip": "E:\\.net\\TaskApi\\TaskApi.Models\\Todo.cs",
+              "RelativeToolTip": "TaskApi.Models\\Todo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:40:24.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoService.cs",
+              "DocumentMoniker": "E:\\.net\\TaskApi\\TaskApi.Services\\TodoService.cs",
+              "RelativeDocumentMoniker": "TaskApi.Services\\TodoService.cs",
+              "ToolTip": "E:\\.net\\TaskApi\\TaskApi.Services\\TodoService.cs",
+              "RelativeToolTip": "TaskApi.Services\\TodoService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:38:44.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskApi",
+              "DocumentMoniker": "E:\\.net\\TaskApi\\TaskApi\\TaskApi.csproj",
+              "RelativeDocumentMoniker": "TaskApi\\TaskApi.csproj",
+              "ToolTip": "E:\\.net\\TaskApi\\TaskApi\\TaskApi.csproj",
+              "RelativeToolTip": "TaskApi\\TaskApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-06T15:25:41.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "E:\\.net\\TaskApi\\TaskApi\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "TaskApi\\Controllers\\TasksController.cs",
+              "ToolTip": "E:\\.net\\TaskApi\\TaskApi\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "TaskApi\\Controllers\\TasksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T15:10:22.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskApi.http",
+              "DocumentMoniker": "E:\\.net\\TaskApi\\TaskApi\\TaskApi.http",
+              "RelativeDocumentMoniker": "TaskApi\\TaskApi.http",
+              "ToolTip": "E:\\.net\\TaskApi\\TaskApi\\TaskApi.http",
+              "RelativeToolTip": "TaskApi\\TaskApi.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-03-06T15:06:56.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\.net\\TaskApi\\TaskApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TaskApi\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\.net\\TaskApi\\TaskApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TaskApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-06T15:04:59.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.net\\TaskApi\\TaskApi\\Program.cs",
+              "RelativeDocumentMoniker": "TaskApi\\Program.cs",
+              "ToolTip": "E:\\.net\\TaskApi\\TaskApi\\Program.cs",
+              "RelativeToolTip": "TaskApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T15:04:29.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\.net\\TaskApi\\TaskApi\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskApi\\appsettings.json",
+              "ToolTip": "E:\\.net\\TaskApi\\TaskApi\\appsettings.json",
+              "RelativeToolTip": "TaskApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-06T15:04:22.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

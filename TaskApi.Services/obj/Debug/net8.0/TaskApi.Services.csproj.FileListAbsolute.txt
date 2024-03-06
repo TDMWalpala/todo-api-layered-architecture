@@ -1,0 +1,16 @@
+E:\.net\TaskApi\TaskApi.Services\bin\Debug\net8.0\TaskApi.Services.deps.json
+E:\.net\TaskApi\TaskApi.Services\bin\Debug\net8.0\TaskApi.Services.dll
+E:\.net\TaskApi\TaskApi.Services\bin\Debug\net8.0\TaskApi.Services.pdb
+E:\.net\TaskApi\TaskApi.Services\bin\Debug\net8.0\TaskApi.Models.dll
+E:\.net\TaskApi\TaskApi.Services\bin\Debug\net8.0\TaskApi.Models.pdb
+E:\.net\TaskApi\TaskApi.Services\obj\Debug\net8.0\TaskApi.Services.csproj.AssemblyReference.cache
+E:\.net\TaskApi\TaskApi.Services\obj\Debug\net8.0\TaskApi.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\TaskApi\TaskApi.Services\obj\Debug\net8.0\TaskApi.Services.AssemblyInfoInputs.cache
+E:\.net\TaskApi\TaskApi.Services\obj\Debug\net8.0\TaskApi.Services.AssemblyInfo.cs
+E:\.net\TaskApi\TaskApi.Services\obj\Debug\net8.0\TaskApi.Services.csproj.CoreCompileInputs.cache
+E:\.net\TaskApi\TaskApi.Services\obj\Debug\net8.0\TaskApi.Services.sourcelink.json
+E:\.net\TaskApi\TaskApi.Services\obj\Debug\net8.0\TaskApi..62089CBD.Up2Date
+E:\.net\TaskApi\TaskApi.Services\obj\Debug\net8.0\TaskApi.Services.dll
+E:\.net\TaskApi\TaskApi.Services\obj\Debug\net8.0\refint\TaskApi.Services.dll
+E:\.net\TaskApi\TaskApi.Services\obj\Debug\net8.0\TaskApi.Services.pdb
+E:\.net\TaskApi\TaskApi.Services\obj\Debug\net8.0\ref\TaskApi.Services.dll
