@@ -8,11 +8,11 @@ namespace TaskApi.Controllers
     [ApiController]
     public class TasksController : ControllerBase
     {
-        private TodoService _todoService;
+        private ITodoRepository _todoService;
 
-        public TasksController()
+        public TasksController(ITodoRepository repository)
         {
-            _todoService =  new TodoService();
+            _todoService =  repository;
         }
         [HttpGet("{id}")]
         public IActionResult GetTodos(int id)
