@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\TaskApi.Models\TaskApi.Models.csproj" />
+    <ProjectReference Include="..\TaskApi.Persistent\TaskApi.Persistent.csproj" />
   </ItemGroup>
 
 </Project>

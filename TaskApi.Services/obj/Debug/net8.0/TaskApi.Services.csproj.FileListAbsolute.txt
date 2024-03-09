@@ -14,3 +14,5 @@ E:\.net\TaskApi\TaskApi.Services\obj\Debug\net8.0\TaskApi.Services.dll
 E:\.net\TaskApi\TaskApi.Services\obj\Debug\net8.0\refint\TaskApi.Services.dll
 E:\.net\TaskApi\TaskApi.Services\obj\Debug\net8.0\TaskApi.Services.pdb
 E:\.net\TaskApi\TaskApi.Services\obj\Debug\net8.0\ref\TaskApi.Services.dll
+E:\.net\TaskApi\TaskApi.Services\bin\Debug\net8.0\TaskApi.Persistent.dll
+E:\.net\TaskApi\TaskApi.Services\bin\Debug\net8.0\TaskApi.Persistent.pdb
