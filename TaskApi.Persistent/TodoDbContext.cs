@@ -11,6 +11,7 @@ namespace TaskApi.Persistent
     public class TodoDbContext : DbContext
     {
         public DbSet<Todo> Todos { get; set; }
+        public DbSet<Author> Authors { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
@@ -20,6 +21,14 @@ namespace TaskApi.Persistent
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            modelBuilder.Entity<Author>().HasData(new Author[]
+            {
+                new Author {Id = 1, Name = "Tharindu"},
+                new Author {Id = 2, Name = "Pasan"},
+                new Author {Id = 3, Name = "Namal"},
+                new Author {Id = 4, Name = "Kamal"},
+                new Author {Id = 5, Name = "Ruwan"},
+            });
             modelBuilder.Entity<Todo>().HasData(new Todo 
             {
                 Id = 1,
@@ -27,7 +36,9 @@ namespace TaskApi.Persistent
                 Description = "This is task from DB",
                 CreatedDate = DateTime.Now,
                 UpdatedDate = DateTime.Now.AddDays(1),
-                Status = TodoStatus.New
+                Status = TodoStatus.New,
+                AuthorId = 1,
+
             
             });
         }

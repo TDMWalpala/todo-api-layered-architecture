@@ -1,8 +1,34 @@
 [
   {
+    "ContainingType": "TaskApi.Controllers.AuthorsController",
+    "Method": "GetAuthors",
+    "RelativePath": "api/authors",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskApi.Controllers.AuthorsController",
+    "Method": "GetAuthor",
+    "RelativePath": "api/authors/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "TaskApi.Controllers.TasksController",
     "Method": "GetTodos",
-    "RelativePath": "api/Tasks/{id}",
+    "RelativePath": "api/todos/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,

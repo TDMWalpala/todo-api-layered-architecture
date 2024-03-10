@@ -1,4 +1,5 @@
-using TaskApi.Services;
+using TaskApi.Services.Authors;
+using TaskApi.Services.Todos;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,6 +10,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<ITodoRepository, TodoSqlServerService>();
+builder.Services.AddScoped<IAuthorRepository, AuthorService>();
 
 var app = builder.Build();
 

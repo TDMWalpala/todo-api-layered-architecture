@@ -3,44 +3,80 @@
   "WorkspaceRootPath": "E:\\.net\\TaskApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4BE09E57-2DFB-4DDA-959C-BA60698DD71F}|TaskApi\\TaskApi.csproj|e:\\.net\\taskapi\\taskapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BE09E57-2DFB-4DDA-959C-BA60698DD71F}|TaskApi\\TaskApi.csproj|solutionrelative:taskapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C3BD2F7-2733-4D55-A81F-44D4FA7614F6}|TaskApi.Services\\TaskApi.Services.csproj|e:\\.net\\taskapi\\taskapi.services\\todosqlserverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C3BD2F7-2733-4D55-A81F-44D4FA7614F6}|TaskApi.Services\\TaskApi.Services.csproj|solutionrelative:taskapi.services\\todosqlserverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C3BD2F7-2733-4D55-A81F-44D4FA7614F6}|TaskApi.Services\\TaskApi.Services.csproj|e:\\.net\\taskapi\\taskapi.services\\taskapi.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5C3BD2F7-2733-4D55-A81F-44D4FA7614F6}|TaskApi.Services\\TaskApi.Services.csproj|solutionrelative:taskapi.services\\taskapi.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C3BD2F7-2733-4D55-A81F-44D4FA7614F6}|TaskApi.Services\\TaskApi.Services.csproj|e:\\.net\\taskapi\\taskapi.services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C3BD2F7-2733-4D55-A81F-44D4FA7614F6}|TaskApi.Services\\TaskApi.Services.csproj|solutionrelative:taskapi.services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA2E51D6-7476-42CA-A2B2-ECDE1072BCB4}|TaskApi.Persistent\\TaskApi.Persistent.csproj|e:\\.net\\taskapi\\taskapi.persistent\\migrations\\20240307134557_seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA2E51D6-7476-42CA-A2B2-ECDE1072BCB4}|TaskApi.Persistent\\TaskApi.Persistent.csproj|solutionrelative:taskapi.persistent\\migrations\\20240307134557_seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DA2E51D6-7476-42CA-A2B2-ECDE1072BCB4}|TaskApi.Persistent\\TaskApi.Persistent.csproj|e:\\.net\\taskapi\\taskapi.persistent\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA2E51D6-7476-42CA-A2B2-ECDE1072BCB4}|TaskApi.Persistent\\TaskApi.Persistent.csproj|solutionrelative:taskapi.persistent\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA2E51D6-7476-42CA-A2B2-ECDE1072BCB4}|TaskApi.Persistent\\TaskApi.Persistent.csproj|e:\\.net\\taskapi\\taskapi.persistent\\migrations\\20240307045155_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA2E51D6-7476-42CA-A2B2-ECDE1072BCB4}|TaskApi.Persistent\\TaskApi.Persistent.csproj|solutionrelative:taskapi.persistent\\migrations\\20240307045155_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4BE09E57-2DFB-4DDA-959C-BA60698DD71F}|TaskApi\\TaskApi.csproj|e:\\.net\\taskapi\\taskapi\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE09E57-2DFB-4DDA-959C-BA60698DD71F}|TaskApi\\TaskApi.csproj|solutionrelative:taskapi\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE09E57-2DFB-4DDA-959C-BA60698DD71F}|TaskApi\\TaskApi.csproj|e:\\.net\\taskapi\\taskapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE09E57-2DFB-4DDA-959C-BA60698DD71F}|TaskApi\\TaskApi.csproj|solutionrelative:taskapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C3BD2F7-2733-4D55-A81F-44D4FA7614F6}|TaskApi.Services\\TaskApi.Services.csproj|e:\\.net\\taskapi\\taskapi.services\\authors\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C3BD2F7-2733-4D55-A81F-44D4FA7614F6}|TaskApi.Services\\TaskApi.Services.csproj|solutionrelative:taskapi.services\\authors\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C3BD2F7-2733-4D55-A81F-44D4FA7614F6}|TaskApi.Services\\TaskApi.Services.csproj|e:\\.net\\taskapi\\taskapi.services\\authors\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C3BD2F7-2733-4D55-A81F-44D4FA7614F6}|TaskApi.Services\\TaskApi.Services.csproj|solutionrelative:taskapi.services\\authors\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE09E57-2DFB-4DDA-959C-BA60698DD71F}|TaskApi\\TaskApi.csproj|e:\\.net\\taskapi\\taskapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE09E57-2DFB-4DDA-959C-BA60698DD71F}|TaskApi\\TaskApi.csproj|solutionrelative:taskapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C3BD2F7-2733-4D55-A81F-44D4FA7614F6}|TaskApi.Services\\TaskApi.Services.csproj|e:\\.net\\taskapi\\taskapi.services\\todos\\todosqlserverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C3BD2F7-2733-4D55-A81F-44D4FA7614F6}|TaskApi.Services\\TaskApi.Services.csproj|solutionrelative:taskapi.services\\todos\\todosqlserverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C3BD2F7-2733-4D55-A81F-44D4FA7614F6}|TaskApi.Services\\TaskApi.Services.csproj|e:\\.net\\taskapi\\taskapi.services\\todos\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C3BD2F7-2733-4D55-A81F-44D4FA7614F6}|TaskApi.Services\\TaskApi.Services.csproj|solutionrelative:taskapi.services\\todos\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA2E51D6-7476-42CA-A2B2-ECDE1072BCB4}|TaskApi.Persistent\\TaskApi.Persistent.csproj|e:\\.net\\taskapi\\taskapi.persistent\\taskapi.persistent.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DA2E51D6-7476-42CA-A2B2-ECDE1072BCB4}|TaskApi.Persistent\\TaskApi.Persistent.csproj|solutionrelative:taskapi.persistent\\taskapi.persistent.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DA2E51D6-7476-42CA-A2B2-ECDE1072BCB4}|TaskApi.Persistent\\TaskApi.Persistent.csproj|e:\\.net\\taskapi\\taskapi.persistent\\migrations\\tododbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA2E51D6-7476-42CA-A2B2-ECDE1072BCB4}|TaskApi.Persistent\\TaskApi.Persistent.csproj|solutionrelative:taskapi.persistent\\migrations\\tododbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BE09E57-2DFB-4DDA-959C-BA60698DD71F}|TaskApi\\TaskApi.csproj|e:\\.net\\taskapi\\taskapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4BE09E57-2DFB-4DDA-959C-BA60698DD71F}|TaskApi\\TaskApi.csproj|solutionrelative:taskapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{5C3BD2F7-2733-4D55-A81F-44D4FA7614F6}|TaskApi.Services\\TaskApi.Services.csproj|e:\\.net\\taskapi\\taskapi.services\\todos\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C3BD2F7-2733-4D55-A81F-44D4FA7614F6}|TaskApi.Services\\TaskApi.Services.csproj|solutionrelative:taskapi.services\\todos\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA2E51D6-7476-42CA-A2B2-ECDE1072BCB4}|TaskApi.Persistent\\TaskApi.Persistent.csproj|e:\\.net\\taskapi\\taskapi.persistent\\taskapi.persistent.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DA2E51D6-7476-42CA-A2B2-ECDE1072BCB4}|TaskApi.Persistent\\TaskApi.Persistent.csproj|solutionrelative:taskapi.persistent\\taskapi.persistent.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{DA2E51D6-7476-42CA-A2B2-ECDE1072BCB4}|TaskApi.Persistent\\TaskApi.Persistent.csproj|e:\\.net\\taskapi\\taskapi.persistent\\migrations\\20240309044203_authordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA2E51D6-7476-42CA-A2B2-ECDE1072BCB4}|TaskApi.Persistent\\TaskApi.Persistent.csproj|solutionrelative:taskapi.persistent\\migrations\\20240309044203_authordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011BBA17-5BD8-4F0C-9559-A8A3D330322F}|TaskApi.Models\\TaskApi.Models.csproj|e:\\.net\\taskapi\\taskapi.models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011BBA17-5BD8-4F0C-9559-A8A3D330322F}|TaskApi.Models\\TaskApi.Models.csproj|solutionrelative:taskapi.models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011BBA17-5BD8-4F0C-9559-A8A3D330322F}|TaskApi.Models\\TaskApi.Models.csproj|e:\\.net\\taskapi\\taskapi.models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011BBA17-5BD8-4F0C-9559-A8A3D330322F}|TaskApi.Models\\TaskApi.Models.csproj|solutionrelative:taskapi.models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011BBA17-5BD8-4F0C-9559-A8A3D330322F}|TaskApi.Models\\TaskApi.Models.csproj|e:\\.net\\taskapi\\taskapi.models\\todostatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011BBA17-5BD8-4F0C-9559-A8A3D330322F}|TaskApi.Models\\TaskApi.Models.csproj|solutionrelative:taskapi.models\\todostatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C3BD2F7-2733-4D55-A81F-44D4FA7614F6}|TaskApi.Services\\TaskApi.Services.csproj|e:\\.net\\taskapi\\taskapi.services\\taskapi.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5C3BD2F7-2733-4D55-A81F-44D4FA7614F6}|TaskApi.Services\\TaskApi.Services.csproj|solutionrelative:taskapi.services\\taskapi.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA2E51D6-7476-42CA-A2B2-ECDE1072BCB4}|TaskApi.Persistent\\TaskApi.Persistent.csproj|e:\\.net\\taskapi\\taskapi.persistent\\migrations\\20240307134557_seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA2E51D6-7476-42CA-A2B2-ECDE1072BCB4}|TaskApi.Persistent\\TaskApi.Persistent.csproj|solutionrelative:taskapi.persistent\\migrations\\20240307134557_seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA2E51D6-7476-42CA-A2B2-ECDE1072BCB4}|TaskApi.Persistent\\TaskApi.Persistent.csproj|e:\\.net\\taskapi\\taskapi.persistent\\migrations\\20240307045155_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA2E51D6-7476-42CA-A2B2-ECDE1072BCB4}|TaskApi.Persistent\\TaskApi.Persistent.csproj|solutionrelative:taskapi.persistent\\migrations\\20240307045155_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE09E57-2DFB-4DDA-959C-BA60698DD71F}|TaskApi\\TaskApi.csproj|e:\\.net\\taskapi\\taskapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4BE09E57-2DFB-4DDA-959C-BA60698DD71F}|TaskApi\\TaskApi.csproj|solutionrelative:taskapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4BE09E57-2DFB-4DDA-959C-BA60698DD71F}|TaskApi\\TaskApi.csproj|e:\\.net\\taskapi\\taskapi\\taskapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -49,22 +85,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4BE09E57-2DFB-4DDA-959C-BA60698DD71F}|TaskApi\\TaskApi.csproj|e:\\.net\\taskapi\\taskapi\\taskapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{4BE09E57-2DFB-4DDA-959C-BA60698DD71F}|TaskApi\\TaskApi.csproj|solutionrelative:taskapi\\taskapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BE09E57-2DFB-4DDA-959C-BA60698DD71F}|TaskApi\\TaskApi.csproj|e:\\.net\\taskapi\\taskapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BE09E57-2DFB-4DDA-959C-BA60698DD71F}|TaskApi\\TaskApi.csproj|solutionrelative:taskapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C3BD2F7-2733-4D55-A81F-44D4FA7614F6}|TaskApi.Services\\TaskApi.Services.csproj|e:\\.net\\taskapi\\taskapi.services\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C3BD2F7-2733-4D55-A81F-44D4FA7614F6}|TaskApi.Services\\TaskApi.Services.csproj|solutionrelative:taskapi.services\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{011BBA17-5BD8-4F0C-9559-A8A3D330322F}|TaskApi.Models\\TaskApi.Models.csproj|e:\\.net\\taskapi\\taskapi.models\\todostatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{011BBA17-5BD8-4F0C-9559-A8A3D330322F}|TaskApi.Models\\TaskApi.Models.csproj|solutionrelative:taskapi.models\\todostatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{011BBA17-5BD8-4F0C-9559-A8A3D330322F}|TaskApi.Models\\TaskApi.Models.csproj|e:\\.net\\taskapi\\taskapi.models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{011BBA17-5BD8-4F0C-9559-A8A3D330322F}|TaskApi.Models\\TaskApi.Models.csproj|solutionrelative:taskapi.models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4BE09E57-2DFB-4DDA-959C-BA60698DD71F}|TaskApi\\TaskApi.csproj|e:\\.net\\taskapi\\taskapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -78,21 +98,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 10,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TaskApi.Services",
-              "DocumentMoniker": "E:\\.net\\TaskApi\\TaskApi.Services\\TaskApi.Services.csproj",
-              "RelativeDocumentMoniker": "TaskApi.Services\\TaskApi.Services.csproj",
-              "ToolTip": "E:\\.net\\TaskApi\\TaskApi.Services\\TaskApi.Services.csproj",
-              "RelativeToolTip": "TaskApi.Services\\TaskApi.Services.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-07T13:47:26.338Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -103,100 +110,64 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TodoSqlServerService.cs",
-              "DocumentMoniker": "E:\\.net\\TaskApi\\TaskApi.Services\\TodoSqlServerService.cs",
-              "RelativeDocumentMoniker": "TaskApi.Services\\TodoSqlServerService.cs",
-              "ToolTip": "E:\\.net\\TaskApi\\TaskApi.Services\\TodoSqlServerService.cs",
-              "RelativeToolTip": "TaskApi.Services\\TodoSqlServerService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "DocumentIndex": 3,
+              "Title": "AuthorService.cs",
+              "DocumentMoniker": "E:\\.net\\TaskApi\\TaskApi.Services\\Authors\\AuthorService.cs",
+              "RelativeDocumentMoniker": "TaskApi.Services\\Authors\\AuthorService.cs",
+              "ToolTip": "E:\\.net\\TaskApi\\TaskApi.Services\\Authors\\AuthorService.cs",
+              "RelativeToolTip": "TaskApi.Services\\Authors\\AuthorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T13:47:57.847Z",
+              "WhenOpened": "2024-03-10T04:49:59.703Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "20240307134557_SeedData.cs",
-              "DocumentMoniker": "E:\\.net\\TaskApi\\TaskApi.Persistent\\Migrations\\20240307134557_SeedData.cs",
-              "RelativeDocumentMoniker": "TaskApi.Persistent\\Migrations\\20240307134557_SeedData.cs",
-              "ToolTip": "E:\\.net\\TaskApi\\TaskApi.Persistent\\Migrations\\20240307134557_SeedData.cs",
-              "RelativeToolTip": "TaskApi.Persistent\\Migrations\\20240307134557_SeedData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "IAuthorRepository.cs",
+              "DocumentMoniker": "E:\\.net\\TaskApi\\TaskApi.Services\\Authors\\IAuthorRepository.cs",
+              "RelativeDocumentMoniker": "TaskApi.Services\\Authors\\IAuthorRepository.cs",
+              "ToolTip": "E:\\.net\\TaskApi\\TaskApi.Services\\Authors\\IAuthorRepository.cs",
+              "RelativeToolTip": "TaskApi.Services\\Authors\\IAuthorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T13:46:01.364Z",
+              "WhenOpened": "2024-03-10T04:46:27.562Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TodoDbContext.cs",
-              "DocumentMoniker": "E:\\.net\\TaskApi\\TaskApi.Persistent\\TodoDbContext.cs",
-              "RelativeDocumentMoniker": "TaskApi.Persistent\\TodoDbContext.cs",
-              "ToolTip": "E:\\.net\\TaskApi\\TaskApi.Persistent\\TodoDbContext.cs",
-              "RelativeToolTip": "TaskApi.Persistent\\TodoDbContext.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCEAAAAFAAAA",
+              "DocumentIndex": 1,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "E:\\.net\\TaskApi\\TaskApi\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "TaskApi\\Controllers\\AuthorsController.cs",
+              "ToolTip": "E:\\.net\\TaskApi\\TaskApi\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "TaskApi\\Controllers\\AuthorsController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBcAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T04:23:52.2Z",
+              "WhenOpened": "2024-03-10T04:39:05.571Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "TaskApi.Persistent.csproj",
-              "DocumentMoniker": "E:\\.net\\TaskApi\\TaskApi.Persistent\\TaskApi.Persistent.csproj",
-              "RelativeDocumentMoniker": "TaskApi.Persistent\\TaskApi.Persistent.csproj",
-              "ToolTip": "E:\\.net\\TaskApi\\TaskApi.Persistent\\TaskApi.Persistent.csproj",
-              "RelativeToolTip": "TaskApi.Persistent\\TaskApi.Persistent.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-07T04:17:21.048Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Todo.cs",
-              "DocumentMoniker": "E:\\.net\\TaskApi\\TaskApi.Models\\Todo.cs",
-              "RelativeDocumentMoniker": "TaskApi.Models\\Todo.cs",
-              "ToolTip": "E:\\.net\\TaskApi\\TaskApi.Models\\Todo.cs",
-              "RelativeToolTip": "TaskApi.Models\\Todo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T16:40:24.835Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\.net\\TaskApi\\TaskApi\\Program.cs",
-              "RelativeDocumentMoniker": "TaskApi\\Program.cs",
-              "ToolTip": "E:\\.net\\TaskApi\\TaskApi\\Program.cs",
-              "RelativeToolTip": "TaskApi\\Program.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAowA4AAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T15:04:29.859Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "TodoDbContextModelSnapshot.cs",
               "DocumentMoniker": "E:\\.net\\TaskApi\\TaskApi.Persistent\\Migrations\\TodoDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "TaskApi.Persistent\\Migrations\\TodoDbContextModelSnapshot.cs",
               "ToolTip": "E:\\.net\\TaskApi\\TaskApi.Persistent\\Migrations\\TodoDbContextModelSnapshot.cs",
               "RelativeToolTip": "TaskApi.Persistent\\Migrations\\TodoDbContextModelSnapshot.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T04:52:36.535Z"
+              "WhenOpened": "2024-03-07T04:52:36.535Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "TodoService.cs",
-              "DocumentMoniker": "E:\\.net\\TaskApi\\TaskApi.Services\\TodoService.cs",
-              "RelativeDocumentMoniker": "TaskApi.Services\\TodoService.cs",
-              "ToolTip": "E:\\.net\\TaskApi\\TaskApi.Services\\TodoService.cs",
-              "RelativeToolTip": "TaskApi.Services\\TodoService.cs",
+              "DocumentMoniker": "E:\\.net\\TaskApi\\TaskApi.Services\\Todos\\TodoService.cs",
+              "RelativeDocumentMoniker": "TaskApi.Services\\Todos\\TodoService.cs",
+              "ToolTip": "E:\\.net\\TaskApi\\TaskApi.Services\\Todos\\TodoService.cs",
+              "RelativeToolTip": "TaskApi.Services\\Todos\\TodoService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-06T16:38:44.375Z",
@@ -204,63 +175,130 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TaskApi.csproj",
-              "DocumentMoniker": "E:\\.net\\TaskApi\\TaskApi\\TaskApi.csproj",
-              "RelativeDocumentMoniker": "TaskApi\\TaskApi.csproj",
-              "ToolTip": "E:\\.net\\TaskApi\\TaskApi\\TaskApi.csproj",
-              "RelativeToolTip": "TaskApi\\TaskApi.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-06T15:25:41.484Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20240307045155_Initial.cs",
-              "DocumentMoniker": "E:\\.net\\TaskApi\\TaskApi.Persistent\\Migrations\\20240307045155_Initial.cs",
-              "RelativeDocumentMoniker": "TaskApi.Persistent\\Migrations\\20240307045155_Initial.cs",
-              "ToolTip": "E:\\.net\\TaskApi\\TaskApi.Persistent\\Migrations\\20240307045155_Initial.cs",
-              "RelativeToolTip": "TaskApi.Persistent\\Migrations\\20240307045155_Initial.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T04:52:46.678Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 2,
               "Title": "TasksController.cs",
               "DocumentMoniker": "E:\\.net\\TaskApi\\TaskApi\\Controllers\\TasksController.cs",
               "RelativeDocumentMoniker": "TaskApi\\Controllers\\TasksController.cs",
               "ToolTip": "E:\\.net\\TaskApi\\TaskApi\\Controllers\\TasksController.cs",
               "RelativeToolTip": "TaskApi\\Controllers\\TasksController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAZAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T15:10:22.102Z"
+              "WhenOpened": "2024-03-06T15:10:22.102Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "TaskApi.http",
-              "DocumentMoniker": "E:\\.net\\TaskApi\\TaskApi\\TaskApi.http",
-              "RelativeDocumentMoniker": "TaskApi\\TaskApi.http",
-              "ToolTip": "E:\\.net\\TaskApi\\TaskApi\\TaskApi.http",
-              "RelativeToolTip": "TaskApi\\TaskApi.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-03-06T15:06:56.343Z"
+              "DocumentIndex": 6,
+              "Title": "TodoSqlServerService.cs",
+              "DocumentMoniker": "E:\\.net\\TaskApi\\TaskApi.Services\\Todos\\TodoSqlServerService.cs",
+              "RelativeDocumentMoniker": "TaskApi.Services\\Todos\\TodoSqlServerService.cs",
+              "ToolTip": "E:\\.net\\TaskApi\\TaskApi.Services\\Todos\\TodoSqlServerService.cs",
+              "RelativeToolTip": "TaskApi.Services\\Todos\\TodoSqlServerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T13:47:57.847Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\.net\\TaskApi\\TaskApi\\appsettings.json",
-              "RelativeDocumentMoniker": "TaskApi\\appsettings.json",
-              "ToolTip": "E:\\.net\\TaskApi\\TaskApi\\appsettings.json",
-              "RelativeToolTip": "TaskApi\\appsettings.json",
+              "Title": "TaskApi.Persistent.csproj",
+              "DocumentMoniker": "E:\\.net\\TaskApi\\TaskApi.Persistent\\TaskApi.Persistent.csproj",
+              "RelativeDocumentMoniker": "TaskApi.Persistent\\TaskApi.Persistent.csproj",
+              "ToolTip": "E:\\.net\\TaskApi\\TaskApi.Persistent\\TaskApi.Persistent.csproj",
+              "RelativeToolTip": "TaskApi.Persistent\\TaskApi.Persistent.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-06T15:04:22.471Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-07T04:17:21.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoDbContext.cs",
+              "DocumentMoniker": "E:\\.net\\TaskApi\\TaskApi.Persistent\\TodoDbContext.cs",
+              "RelativeDocumentMoniker": "TaskApi.Persistent\\TodoDbContext.cs",
+              "ToolTip": "E:\\.net\\TaskApi\\TaskApi.Persistent\\TodoDbContext.cs",
+              "RelativeToolTip": "TaskApi.Persistent\\TodoDbContext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T04:23:52.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.net\\TaskApi\\TaskApi\\Program.cs",
+              "RelativeDocumentMoniker": "TaskApi\\Program.cs",
+              "ToolTip": "E:\\.net\\TaskApi\\TaskApi\\Program.cs",
+              "RelativeToolTip": "TaskApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T15:04:29.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240309044203_AuthorData.cs",
+              "DocumentMoniker": "E:\\.net\\TaskApi\\TaskApi.Persistent\\Migrations\\20240309044203_AuthorData.cs",
+              "RelativeDocumentMoniker": "TaskApi.Persistent\\Migrations\\20240309044203_AuthorData.cs",
+              "ToolTip": "E:\\.net\\TaskApi\\TaskApi.Persistent\\Migrations\\20240309044203_AuthorData.cs",
+              "RelativeToolTip": "TaskApi.Persistent\\Migrations\\20240309044203_AuthorData.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T04:42:09.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "E:\\.net\\TaskApi\\TaskApi.Models\\Todo.cs",
+              "RelativeDocumentMoniker": "TaskApi.Models\\Todo.cs",
+              "ToolTip": "E:\\.net\\TaskApi\\TaskApi.Models\\Todo.cs",
+              "RelativeToolTip": "TaskApi.Models\\Todo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:40:24.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ITodoRepository.cs",
+              "DocumentMoniker": "E:\\.net\\TaskApi\\TaskApi.Services\\Todos\\ITodoRepository.cs",
+              "RelativeDocumentMoniker": "TaskApi.Services\\Todos\\ITodoRepository.cs",
+              "ToolTip": "E:\\.net\\TaskApi\\TaskApi.Services\\Todos\\ITodoRepository.cs",
+              "RelativeToolTip": "TaskApi.Services\\Todos\\ITodoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:43:46.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240307134557_SeedData.cs",
+              "DocumentMoniker": "E:\\.net\\TaskApi\\TaskApi.Persistent\\Migrations\\20240307134557_SeedData.cs",
+              "RelativeDocumentMoniker": "TaskApi.Persistent\\Migrations\\20240307134557_SeedData.cs",
+              "ToolTip": "E:\\.net\\TaskApi\\TaskApi.Persistent\\Migrations\\20240307134557_SeedData.cs",
+              "RelativeToolTip": "TaskApi.Persistent\\Migrations\\20240307134557_SeedData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T13:46:01.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Author.cs",
+              "DocumentMoniker": "E:\\.net\\TaskApi\\TaskApi.Models\\Author.cs",
+              "RelativeDocumentMoniker": "TaskApi.Models\\Author.cs",
+              "ToolTip": "E:\\.net\\TaskApi\\TaskApi.Models\\Author.cs",
+              "RelativeToolTip": "TaskApi.Models\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T04:26:43.631Z"
             },
             {
               "$type": "Document",
@@ -276,25 +314,73 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ITodoRepository.cs",
-              "DocumentMoniker": "E:\\.net\\TaskApi\\TaskApi.Services\\ITodoRepository.cs",
-              "RelativeDocumentMoniker": "TaskApi.Services\\ITodoRepository.cs",
-              "ToolTip": "E:\\.net\\TaskApi\\TaskApi.Services\\ITodoRepository.cs",
-              "RelativeToolTip": "TaskApi.Services\\ITodoRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T16:43:46.145Z"
+              "DocumentIndex": 15,
+              "Title": "TaskApi.Services.csproj",
+              "DocumentMoniker": "E:\\.net\\TaskApi\\TaskApi.Services\\TaskApi.Services.csproj",
+              "RelativeDocumentMoniker": "TaskApi.Services\\TaskApi.Services.csproj",
+              "ToolTip": "E:\\.net\\TaskApi\\TaskApi.Services\\TaskApi.Services.csproj",
+              "RelativeToolTip": "TaskApi.Services\\TaskApi.Services.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-07T13:47:26.338Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
+              "Title": "TaskApi.csproj",
+              "DocumentMoniker": "E:\\.net\\TaskApi\\TaskApi\\TaskApi.csproj",
+              "RelativeDocumentMoniker": "TaskApi\\TaskApi.csproj",
+              "ToolTip": "E:\\.net\\TaskApi\\TaskApi\\TaskApi.csproj",
+              "RelativeToolTip": "TaskApi\\TaskApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-06T15:25:41.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240307045155_Initial.cs",
+              "DocumentMoniker": "E:\\.net\\TaskApi\\TaskApi.Persistent\\Migrations\\20240307045155_Initial.cs",
+              "RelativeDocumentMoniker": "TaskApi.Persistent\\Migrations\\20240307045155_Initial.cs",
+              "ToolTip": "E:\\.net\\TaskApi\\TaskApi.Persistent\\Migrations\\20240307045155_Initial.cs",
+              "RelativeToolTip": "TaskApi.Persistent\\Migrations\\20240307045155_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T04:52:46.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TaskApi.http",
+              "DocumentMoniker": "E:\\.net\\TaskApi\\TaskApi\\TaskApi.http",
+              "RelativeDocumentMoniker": "TaskApi\\TaskApi.http",
+              "ToolTip": "E:\\.net\\TaskApi\\TaskApi\\TaskApi.http",
+              "RelativeToolTip": "TaskApi\\TaskApi.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-03-06T15:06:56.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\.net\\TaskApi\\TaskApi\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskApi\\appsettings.json",
+              "ToolTip": "E:\\.net\\TaskApi\\TaskApi\\appsettings.json",
+              "RelativeToolTip": "TaskApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-06T15:04:22.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "launchSettings.json",
               "DocumentMoniker": "E:\\.net\\TaskApi\\TaskApi\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "TaskApi\\Properties\\launchSettings.json",
               "ToolTip": "E:\\.net\\TaskApi\\TaskApi\\Properties\\launchSettings.json",
               "RelativeToolTip": "TaskApi\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAIAAAAAAAAAAABRwBsAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwBsAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-03-06T15:04:59.892Z"
             }

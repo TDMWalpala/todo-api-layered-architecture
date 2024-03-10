@@ -1,6 +1,6 @@
 ﻿using TaskApi.Models;
 
-namespace TaskApi.Services
+namespace TaskApi.Services.Todos
 {
     public class TodoService : ITodoRepository
     {

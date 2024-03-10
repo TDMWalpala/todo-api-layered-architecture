@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using TaskApi.Models;
 using TaskApi.Persistent;
 
-namespace TaskApi.Services
+namespace TaskApi.Services.Todos
 {
     public class TodoSqlServerService : ITodoRepository
     {
@@ -14,7 +14,7 @@ namespace TaskApi.Services
 
         public List<Todo> AllTodos()
         {
-           return _context.Todos.ToList();
+            return _context.Todos.ToList();
         }
     }
 }

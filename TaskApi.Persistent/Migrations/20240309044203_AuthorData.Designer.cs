@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using TaskApi.Persistent;
 
@@ -11,9 +12,11 @@ using TaskApi.Persistent;
 namespace TaskApi.Persistent.Migrations
 {
     [DbContext(typeof(TodoDbContext))]
-    partial class TodoDbContextModelSnapshot : ModelSnapshot
+    [Migration("20240309044203_AuthorData")]
+    partial class AuthorData
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -36,7 +39,7 @@ namespace TaskApi.Persistent.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Authors");
+                    b.ToTable("Auth");
 
                     b.HasData(
                         new
@@ -105,11 +108,11 @@ namespace TaskApi.Persistent.Migrations
                         {
                             Id = 1,
                             AuthorId = 1,
-                            CreatedDate = new DateTime(2024, 3, 10, 10, 40, 11, 112, DateTimeKind.Local).AddTicks(9851),
+                            CreatedDate = new DateTime(2024, 3, 9, 10, 12, 2, 789, DateTimeKind.Local).AddTicks(9450),
                             Description = "This is task from DB",
                             Status = 0,
                             Title = "Task 1",
-                            UpdatedDate = new DateTime(2024, 3, 11, 10, 40, 11, 112, DateTimeKind.Local).AddTicks(9879)
+                            UpdatedDate = new DateTime(2024, 3, 10, 10, 12, 2, 789, DateTimeKind.Local).AddTicks(9469)
                         });
                 });
 
